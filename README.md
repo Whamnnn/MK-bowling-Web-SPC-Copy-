@@ -1,1 +1,2 @@
-# MK-bowling-Web-SPC-Copy-
+# MK-bowling-Web
+# Spartan Coding Club Homepage Copy
